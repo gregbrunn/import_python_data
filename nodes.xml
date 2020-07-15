@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cucmNodes>
+	<node Id="1">
+		<IPAddress>10.101.8.50</IPAddress>
+	</node>
+	<node Id="2">
+		<IPAddress>10.101.8.51</IPAddress>
+	</node>
+	<node Id="3">
+		<IPAddress>10.101.8.52</IPAddress>
+	</node>
+</cucmNodes>

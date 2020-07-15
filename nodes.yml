@@ -1,7 +1,6 @@
 ---
 #This YAML File Contains a list of nodes. You can add or remote items to the list or change the IP address of the nodes.
-nodes:
- -10.101.8.50
- -10.101.8.51
- -10.101.8.52
+ - 10.101.8.50
+ - 10.101.8.51
+ - 10.101.8.52
 ...
